@@ -19,6 +19,6 @@ const useAparametersIntoTheFunction = () => {
   function calculateTheArea(heigth, width) {
       console.log(heigth * width); // display the result of parameters 
   }; 
-  calculateTheArea(10, 6); // call the function and display the result
+  calculateTheArea(10, 6); // call the function and display the result => Expected output 60
 }; 
 useAparametersIntoTheFunction(); // call the function 
